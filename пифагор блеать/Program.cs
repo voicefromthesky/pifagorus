@@ -28,6 +28,10 @@ namespace пифагор_блеать
         {
 
 
+
+
+
+
             Console.WriteLine("Lenght from?");
             int x1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Lenght to?");
